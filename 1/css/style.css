@@ -18,3 +18,12 @@ table {
 td {
 	height: 100%;
 }
+
+th {
+	background-color: #6A6A6A;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
